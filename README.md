@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rozi1
 - 👀 I’m interested in AI programming
-- 🌱 I’m currently learning as a freelance developer
+- 🌱 I’m currently working as a freelance developer
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 Contact me: rozi.kh2@gmail.com
 
