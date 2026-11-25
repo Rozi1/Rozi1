@@ -6,7 +6,7 @@ I build deep learning and computer vision systems — from model compression res
 
 ### 🔬 What I work on
 - **Model compression & quantization** — PyTorch implementations of APoT (Additive Powers-of-Two) quantization on MobileNetV2, ResNet, CIFAR-10, MNIST and Fashion-MNIST
-- **Computer vision** — pose estimation, automatic number-plate recognition (ANPR), CNNs
+- **Computer vision** — animal pose estimation, automatic number-plate recognition (ANPR), CNNs
 - **Applied AI & optimization** — route optimization, intelligent backend services
 - **Full-stack & apps** — Python (Sanic), C#, Dart/Flutter, Java
 
@@ -23,11 +23,10 @@ I build deep learning and computer vision systems — from model compression res
 ### 🚀 Featured projects
 | Project | What it is |
 |---|---|
-| [fuel_route_optimizer](https://github.com/Rozi1/fuel_route_optimizer) | Route optimization for fuel-efficient travel |
-| [APoT_Quantization_Final](https://github.com/Rozi1/APoT_Quantization_Final) | APoT quantization for compact, efficient CNNs |
-| [Pose_Estimation](https://github.com/Rozi1/Pose_Estimation) | Human pose estimation with deep learning |
-| [ANPR](https://github.com/Rozi1/ANPR) | Automatic number-plate recognition |
-| [cnn](https://github.com/Rozi1/cnn) | Convolutional neural network experiments |
+| [fuel_route_optimizer](https://github.com/Rozi1/fuel_route_optimizer) | Django REST API that plans a US driving route and picks the cheapest fuel stops, with total cost and an interactive map |
+| [APoT_Quantization_Final](https://github.com/Rozi1/APoT_Quantization_Final) | Additive Powers-of-Two (ICLR 2020) quantization experiments on CIFAR-10, Fashion-MNIST and ImageNet |
+| [Pose_Estimation](https://github.com/Rozi1/Pose_Estimation) | Animal pose estimation: keypoint annotation parsing and skeleton visualization with OpenCV |
+| [cnn](https://github.com/Rozi1/cnn) | PyTorch CNN for image classification, from preprocessing to training, evaluation and plots |
 
 ### 🤝 Let's collaborate
 I'm open to freelance work and collaboration on **machine learning and computer vision** projects.
