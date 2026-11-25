@@ -29,7 +29,6 @@ I build deep learning and computer vision systems, and the full-stack platforms 
 | Project | What it is |
 |---|---|
 | [fuel_route_optimizer](https://github.com/Rozi1/fuel_route_optimizer) | Django REST API that plans a US driving route and picks the cheapest fuel stops, with total cost and an interactive map |
-| [crm](https://github.com/Rozi1/crm) | Node.js / Express CRM with lead management, role-based access, IP restriction and report uploads |
 | [APoT_Quantization_Final](https://github.com/Rozi1/APoT_Quantization_Final) | Additive Powers-of-Two (ICLR 2020) quantization experiments on CIFAR-10, Fashion-MNIST and ImageNet |
 | [Pose_Estimation](https://github.com/Rozi1/Pose_Estimation) | Animal pose estimation: keypoint annotation parsing and skeleton visualization with OpenCV |
 | [cnn](https://github.com/Rozi1/cnn) | PyTorch CNN for image classification, from preprocessing to training, evaluation and plots |
@@ -43,6 +42,7 @@ I build deep learning and computer vision systems, and the full-stack platforms 
 | **Orbit ERP** | Multi-tenant ERP for shops, pharmacies, wholesalers, cafés and clinics: point of sale, inventory, purchasing, accounting, HR and projects; installable as a PWA (Django) |
 | **CPMS**: Construction Project Management System | Project-centric platform for construction firms: document approvals, full procurement (PR → RFQ → PO → GRN → invoice → payment), central-store inventory, chart of accounts and an immutable audit trail (Django) |
 | **FAPMS**: Foreign Aid Projects Management System | Tracks grant- and loan-funded development projects with budget analytics, multi-level filtering, document management and progress tracking (Django, Tailwind, Chart.js) |
+| **CRM** | Lead and customer management with role-based access, IP restriction and report uploads (Node.js, Express, SQLite) |
 | **LATS**: Litigation & Appeals Tracking System | Executive dashboard that tracks government court cases and appeal deadlines so no right of appeal lapses (Django) |
 | **CommandOS** | Operations command center that turns data into performance, exception and risk insights with actions and audit (Django) |
 | **Education Projects Dashboard** | Physical and financial progress tracking for school, college, polytechnic and university development projects (Django) |
